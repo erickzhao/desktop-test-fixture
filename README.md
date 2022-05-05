@@ -24,3 +24,4 @@ This repository is a test for the deterministic versioning package.
 ### 4.1.x
 
 * Wow, we're bumping up the minor release here!
+* Ouch, had to fix something.
