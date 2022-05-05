@@ -13,6 +13,7 @@ This repository is a test for the deterministic versioning package.
 * This is a fix I need to backport.
 * New feature that will not go into 4.0.x
 * A second feature that will not go into 4.0.x
+* A backportable fix for 4.0.x
 
 ### 4.0.x
 
