@@ -9,3 +9,4 @@ This repository is a test for the deterministic versioning package.
 * This is my first commit
 * This is my second commit. I am adding cross-platform functionality.
 * This is my third commit. I am fixing a crucial security bug.
+* This is my fourth commit. I am adding documentation!
