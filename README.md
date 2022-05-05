@@ -11,6 +11,7 @@ This repository is a test for the deterministic versioning package.
 * This is my third commit. I am fixing a crucial security bug.
 * This is my fourth commit. I am adding documentation!
 * This is a fix I need to backport.
+* New feature that will not go into 4.0.x
 
 ### 4.0.x
 
