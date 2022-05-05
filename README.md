@@ -12,9 +12,11 @@ This repository is a test for the deterministic versioning package.
 * This is my fourth commit. I am adding documentation!
 * This is a fix I need to backport.
 * A backportable fix for 4.0.x
+* important security backport.
 
 ### 4.0.x
 
 * A new challenger has appeared!
 * Backported fix!
 * This is a fix specifically for 4.0.x
+* important security backport.
