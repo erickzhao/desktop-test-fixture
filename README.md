@@ -16,3 +16,4 @@ This repository is a test for the deterministic versioning package.
 
 * A new challenger has appeared!
 * Backported fix!
+* This is a fix specifically for 4.0.x
