@@ -6,4 +6,5 @@ This repository is a test for the deterministic versioning package.
 
 ### 0.0.0-dev
 
-This is my first commit
+* This is my first commit
+* This is my second commit. I am adding cross-platform functionality.
