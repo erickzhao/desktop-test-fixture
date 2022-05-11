@@ -17,6 +17,7 @@ This repository is a test for the deterministic versioning package.
 * Another new feature.
 * important security backport.
 * new shiny feature
+* new shiny feature 2
 
 ### 4.0.x
 
